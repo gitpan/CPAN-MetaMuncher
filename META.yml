@@ -21,10 +21,10 @@ no_index:
 provides:
   CPAN::MetaMuncher:
     file: lib/CPAN/MetaMuncher.pm
-    version: 0.007_01
+    version: 0.007_02
   CPAN::MetaMuncher::TraitFor::RPMInfo:
     file: lib/CPAN/MetaMuncher/TraitFor/RPMInfo.pm
-    version: 0.007_01
+    version: 0.007_02
 requires:
   CPAN::Easy: 0
   File::Slurp: 0
@@ -43,4 +43,4 @@ resources:
   homepage: http://github.com/RsrchBoy/cpan-metamuncher/tree
   license: http://opensource.org/licenses/lgpl-license.php
   repository: git://github.com/RsrchBoy/cpan-metamuncher.git
-version: 0.007_01
+version: 0.007_02
